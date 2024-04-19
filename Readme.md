@@ -12,9 +12,9 @@ Why TMS?
 TMS revolutionizes project management by promoting efficiency and cooperation among team members. Its intuitive interface and comprehensive features make it the ideal choice for businesses looking to enhance productivity.
 
 Screenshots
-[Screenshot 1](ss/ss1.png)
-[Screenshot 2](ss/ss2.png)
-[Screenshot 3](ss/ss3.png)
+![Screenshot 1](ss/ss1.png)
+![Screenshot 2](ss/ss2.png)
+![Screenshot 3](ss/ss3.png)
 
 Installation and Setup
 To run TMS locally:
